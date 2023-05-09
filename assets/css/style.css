@@ -1,0 +1,22 @@
+#example_info, #example_length ,#example_filter{
+    color: white;
+    
+}
+table thead{
+background-color: red;
+text-align: center; 
+      
+}
+table tbody{
+background-color: black;
+color: white;
+text-align: center;
+}
+table tfoot{
+background-color: red;
+text-align: center;
+}
+
+h1 {
+    color: white;
+}
